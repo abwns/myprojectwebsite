@@ -1,0 +1,36 @@
+.logo {
+
+	background-color: #7a8aff;
+	border: 1px #444 solid;
+	margin-left: 20px; 
+	margin-right: 20px;
+
+}
+
+.option {
+	margin: 0;
+	padding: 0;
+	margin-left: 43px;
+	display: inline;
+	font-weight: 200;
+	font-size: 20px;
+
+}
+.option > a{
+	color: white;
+	margin: 50px;
+	text-decoration: none;
+}
+
+#listBox >  ul > li > a:hover {
+	color: black;
+	text-decoration:underline;
+}
+
+#listBox{
+	background-color: #001beb;
+	margin-right: 20px;
+	margin-left: 20px;  
+	
+
+}
