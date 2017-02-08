@@ -2,10 +2,25 @@
 
 	background-color: #7a8aff;
 	border: 1px #444 solid;
-	margin-left: 20px; 
-	margin-right: 20px;
+	margin-left: 50px; 
+	margin-right: 50px;
+    height: 100px;
 
 }
+
+#listBox{
+	background-color: #001beb;
+	margin-right: 50px;
+	margin-left: 50px;  
+	
+
+}
+
+#listBox >  ul > li > a:hover {
+	color: black;
+	text-decoration:underline;
+}
+
 
 .option {
 	margin: 0;
@@ -22,15 +37,11 @@
 	text-decoration: none;
 }
 
-#listBox >  ul > li > a:hover {
-	color: black;
-	text-decoration:underline;
+#contant{
+    border: 1px #444 solid;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-#listBox{
-	background-color: #001beb;
-	margin-right: 20px;
-	margin-left: 20px;  
-	
-
-}
