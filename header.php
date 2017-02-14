@@ -13,13 +13,13 @@
                     <a href="index.php">Home</a>
                 </li>
                 <li class="option">
-                    <a href="tool.php">Tool</a>
+                    <a href="timer.php">Tool</a>
                 </li>
                 <li class="option">
-                    <a href="saved.html">Saved Data</a>
+                    <a href="history.php">Saved Data</a>
                 </li>
                 <li class="option">
-                    <a href="login.html">Login</a>
+                    <a href="login.php">Login</a>
                 </li>
             </ul>
         </div>
