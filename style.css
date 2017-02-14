@@ -1,18 +1,22 @@
 .logo {
 
 	background-color: #7a8aff;
-	border: 1px #444 solid;
-	margin-left: 50px; 
-	margin-right: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     height: 100px;
+    float: unset;
+    box-shadow: 5px 40px 100px black;
+    border-collapse: collapse;
 
 }
 
 #listBox{
 	background-color: #001beb;
-	margin-right: 50px;
-	margin-left: 50px;  
-	
+    margin-right: 50px;
+    margin-left: 50px;
+    float: left;
+    width: -moz-available;
+    border-collapse: collapse;
 
 }
 
@@ -43,5 +47,22 @@
     margin-right: 50px;
     padding-left: 20px;
     padding-right: 20px;
+    float: left;
+    border-collapse: collapse;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
 }
 
+#footer{
+    
+   font-size: 20px;
+    border: 1px #444 solid;
+    float: left;
+    padding-left: 100px;
+    margin-left: 50px;
+    width: -moz-available;
+    margin-right: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}

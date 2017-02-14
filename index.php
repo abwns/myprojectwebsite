@@ -1,0 +1,21 @@
+
+
+<!DOCTYPE html>
+
+
+<?php
+include('header.php');
+?>
+        
+        
+        
+		<div id="contant">
+            <p>Hello Everyone,
+            This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j 
+                This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j This website is a project for CS401- Web Development, and it is a tool that help student to study better and more effective. jasldfajs;lkkfjdl;fj ads;ljk f;alkdjsf;sdlkfj sk;kfdj a;skf dj;kfasdjf;sdj f;asdfjaf;skdf;dsfjsdf;f;j 
+            </p>
+        </div>
+
+<?php
+include('footer.php');
+?>
