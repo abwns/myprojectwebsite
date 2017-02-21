@@ -7,41 +7,53 @@
     float: unset;
     box-shadow: 5px 40px 100px black;
     border-collapse: collapse;
-
+    
 }
 
-#listBox{
-	background-color: #001beb;
+.listBox{
+	background-color: #50639a;
     margin-right: 50px;
     margin-left: 50px;
     float: left;
     width: -moz-available;
     border-collapse: collapse;
+    
 
 }
 
-#listBox >  ul > li > a:hover {
+.listbox >  ul > li > a:hover {
 	color: black;
 	text-decoration:underline;
 }
 
 
 .option {
-	margin: 0;
-	padding: 0;
-	margin-left: 43px;
+	margin-left: 15%;
 	display: inline;
 	font-weight: 200;
 	font-size: 20px;
-
+    
 }
 .option > a{
 	color: white;
-	margin: 50px;
 	text-decoration: none;
 }
 
-#contant{
+
+
+/*
+for the index.php
+*/
+.direc{
+    float: left;
+    border-collapse: collapse;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.contant{
     border: 1px #444 solid;
     margin-left: 50px;
     margin-right: 50px;
@@ -51,18 +63,100 @@
     border-collapse: collapse;
     padding-bottom: 10px;
     padding-top: 10px;
+    display: inline;
+    width: -moz-available;
+    background-color: #e3e3e3;
+}
+
+/*
+for timer.php
+*/
+.timer{
+    border: 1px #444 solid;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+    border-collapse: collapse;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: inline;
+    width: -moz-available;
+    background-color: #e3e3e3;
+    
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+}
+
+/*
+for history.php
+*/
+.history{
+    border: 1px #444 solid;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+    border-collapse: collapse;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: inline;
+    width: -moz-available;
+    background-color: #e3e3e3;
     
 }
+/*for login.php*/
+.login{
+    border: 1px #444 solid;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+    border-collapse: collapse;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: inline;
+    width: -moz-available;
+    background-color: #e3e3e3;
+    
+}
+.boxLogin{
+    border: 1px #444 solid;
+    margin-left: 25%;
+    width: 50%;
+    height: 60%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
 
 #footer{
     
    font-size: 20px;
     border: 1px #444 solid;
     float: left;
-    padding-left: 100px;
+    
     margin-left: 50px;
     width: -moz-available;
     margin-right: 50px;
     text-align: center;
     margin-bottom: 50px;
+    background-color: #333333;
+    color: #f0f8ff;
+}
+
+
+.click-me {
+    -moz-appearance: button;
+    -ms-appearance: button;
+    -o-appearance: button;
+    -webkit-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: #000;
+    padding: 0.2em 0.4em;
 }

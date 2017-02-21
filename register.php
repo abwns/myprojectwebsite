@@ -10,21 +10,23 @@ include('header.php');
         <fieldset>
             <legend>Login:</legend>
     
-            <form action="loging.php" method="post">
+            <form action="registering.php" method="post">
                 <div>
                     Username: <input type="text" name="username" /> <br />
+                    Email: <input type="text" name="email" /> <br />
                     Password: <input type="password" name="password" /> <br />
                 </div>
                 
                 
-                <input type="submit" value="Login">
+                <input type="submit" value="Register">
                 
             </form>
             
-            <a class="click-me" href="register.php">Register</a>
+            
         </fieldset>
     </div>
 </div>
-<?php 
+
+<?php
 include('footer.php');
 ?>
